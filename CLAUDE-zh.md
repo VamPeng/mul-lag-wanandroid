@@ -1,5 +1,7 @@
 # CLAUDE-zh.md
 
+> **重要提示**: 本文件是 `CLAUDE.md` 的中文翻译版本。更新本文件时，必须同步更新 `CLAUDE.md` 以保持两个文件的内容一致。
+
 本文件为 Claude Code (claude.ai/code) 在处理本仓库代码时提供指导。
 
 ## 项目概述

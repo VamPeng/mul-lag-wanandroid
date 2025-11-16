@@ -1,5 +1,7 @@
 # CLAUDE.md
 
+> **IMPORTANT**: This file has a Chinese translation `CLAUDE-zh.md`. When updating this file, you MUST also update `CLAUDE-zh.md` to keep both files synchronized.
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
