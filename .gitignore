@@ -1,0 +1,23 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code
+.claude/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Each sub-project has its own .gitignore for platform-specific ignores
